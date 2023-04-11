@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kvngu/Documents/Unreal Projects/MyProject/Content/Untitled.umap",
+				"C:/Users/kvngu/Documents/Unreal Projects/MyProject/Content/Ultraleap.uasset",
+				"C:/Users/kvngu/Documents/Unreal Projects/MyProject/Content/leap.uasset",
+				"C:/Users/kvngu/Documents/Unreal Projects/MyProject/Content/bax.uasset",
+				"C:/Users/kvngu/Documents/Unreal Projects/MyProject/Content/VRTemplate/Audio/Fire01.uasset",
+				"C:/Users/kvngu/Documents/Unreal Projects/MyProject/Content/vr_pawn.uasset"
+			]
+		}
+	]
+}
