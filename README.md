@@ -1,4 +1,4 @@
-# BIO_AR
+# VR Dodgeball Project
 Kelompok 11 ManProTI:
 - Angelo Brian Rafael (C14200062)
 - Jeremy Amadeus Raul Wibisono (C14200113)
