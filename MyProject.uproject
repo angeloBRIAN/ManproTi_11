@@ -13,12 +13,32 @@
 		},
 		{
 			"Name": "UltraleapTracking",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bee1e122fcae438abb50441ee6286d92"
 		},
 		{
-			"Name": "OculusVR",
+			"Name": "OpenXRHandTracking",
 			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android",
+				"HoloLens"
+			]
+		},
+		{
+			"Name": "OpenXRMsftHandInteraction",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android",
+				"HoloLens"
+			]
+		},
+		{
+			"Name": "OculusXR",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8313d8d7e7cf4e03a33e79eb757bccba",
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Android"
