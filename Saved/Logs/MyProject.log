@@ -7029,3 +7029,1112 @@ Script Stack (0 frames) :
 [2023.05.23-05.49.32:874][112]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto2
 [2023.05.23-05.49.32:874][112]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/VRPawn_Auto2C6EBA12747A4A85829BEC1932F56EEE5.tmp' to 'D:/c14200062(1)/ManproTi_11/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto2.uasset'
 [2023.05.23-05.49.32:875][112]LogFileHelpers: Auto-saving content packages took 0.140
+[2023.05.23-05.53.27:104][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-05.53.27:150][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battle" FILE="D:/c14200062(1)/ManproTi_11/Content/Battle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.23-05.53.27:205][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.23-05.53.27:215][ 64]LogSavePackage: Moving output files for package: /Game/Battle
+[2023.05.23-05.53.27:216][ 64]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Battle892E4C3B4B4A4358A5B099ACCA5CD265.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/Battle.umap'
+[2023.05.23-05.53.27:228][ 64]LogFileHelpers: Saving map 'Battle' took 0.079
+[2023.05.23-05.53.27:235][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms
+[2023.05.23-05.53.27:241][ 64]AssetCheck: New page: Asset Save: Battle
+[2023.05.23-05.53.27:241][ 64]LogContentValidation: Display: Validating /Script/Engine.World /Game/Battle.Battle
+[2023.05.23-05.53.29:452][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.23-05.53.29:455][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-05.53.29:483][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bax" FILE="D:/c14200062(1)/ManproTi_11/Content/bax.uasset" SILENT=true
+[2023.05.23-05.53.29:488][305]LogSavePackage: Moving output files for package: /Game/bax
+[2023.05.23-05.53.29:489][305]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/bax4F0BE7034528F79B21D9F88648A2AC11.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/bax.uasset'
+[2023.05.23-05.53.29:489][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_VectorAnswer" FILE="D:/c14200062(1)/ManproTi_11/Content/BP_VectorAnswer.uasset" SILENT=true
+[2023.05.23-05.53.29:498][305]LogSavePackage: Moving output files for package: /Game/BP_VectorAnswer
+[2023.05.23-05.53.29:498][305]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/BP_VectorAnswerD13370C241000262CBD48685C0F53C49.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/BP_VectorAnswer.uasset'
+[2023.05.23-05.53.29:499][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="D:/c14200062(1)/ManproTi_11/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2023.05.23-05.53.29:560][305]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2023.05.23-05.53.29:560][305]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/VRPawn5FB970DA4FDAFD9A89387684242BC234.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2023.05.23-05.53.29:568][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 243 ms)
+[2023.05.23-05.53.29:574][305]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-05.53.29:574][305]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.05.23-05.53.29:574][305]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/bax.bax
+[2023.05.23-05.53.29:574][305]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_VectorAnswer.BP_VectorAnswer
+[2023.05.23-05.53.40:614][586]Cmd: DELETE
+[2023.05.23-05.53.40:614][586]Cmd: ACTOR DELETE
+[2023.05.23-05.53.40:615][586]LogEditorActor: Deleted Actor: BP_VectorAnswer_C
+[2023.05.23-05.53.40:669][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.05.23-05.53.40:673][586]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.05.23-05.53.54:442][138]LogShaderCompilers: Display: ================================================
+[2023.05.23-05.53.54:442][138]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.23-05.53.54:442][138]LogShaderCompilers: Display: Total job queries 158, among them cache hits 23 (14.56%)
+[2023.05.23-05.53.54:442][138]LogShaderCompilers: Display: Tracking 135 distinct input hashes that result in 109 distinct outputs (80.74%)
+[2023.05.23-05.53.54:442][138]LogShaderCompilers: Display: RAM used: 0.41 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2023.05.23-05.53.54:443][138]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.23-05.53.54:443][138]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.23-05.53.54:443][138]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.23-05.53.54:443][138]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.23-05.53.54:443][138]LogShaderCompilers: Display: ================================================
+[2023.05.23-05.53.54:578][147]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/CornerLight_Mat.CornerLight_Mat_C
+[2023.05.23-05.53.54:578][147]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/CornerLight_Mat.CornerLight_Mat_C
+[2023.05.23-05.53.54:583][147]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/CornerLight_Mat.CornerLight_Mat as actor: CornerLight_Mat_C /Game/Battle.Battle:PersistentLevel.CornerLight_Mat_C_0
+[2023.05.23-05.53.54:588][147]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/CornerLight_Mat.CornerLight_Mat as actor: CornerLight_Mat_C /Game/Battle.Battle:PersistentLevel.CornerLight_Mat_C_0
+[2023.05.23-05.53.54:600][147]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.05.23-05.53.58:598][600]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/CornerLight_Mat.CornerLight_Mat_C
+[2023.05.23-05.53.58:598][600]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/CornerLight_Mat.CornerLight_Mat_C
+[2023.05.23-05.53.58:605][600]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/CornerLight_Mat.CornerLight_Mat as actor: CornerLight_Mat_C /Game/Battle.Battle:PersistentLevel.CornerLight_Mat_C_1
+[2023.05.23-05.53.58:611][600]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/CornerLight_Mat.CornerLight_Mat as actor: CornerLight_Mat_C /Game/Battle.Battle:PersistentLevel.CornerLight_Mat_C_1
+[2023.05.23-05.54.36:960][ 67]Cmd: DELETE
+[2023.05.23-05.54.36:960][ 67]Cmd: ACTOR DELETE
+[2023.05.23-05.54.36:962][ 67]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.23-05.54.37:024][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.05.23-05.54.37:029][ 67]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2023.05.23-05.54.44:403][937]Cmd: DELETE
+[2023.05.23-05.54.44:403][937]Cmd: ACTOR DELETE
+[2023.05.23-05.54.44:405][937]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.23-05.54.44:453][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.23-05.54.44:456][937]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2023.05.23-05.54.44:963][992]Cmd: DELETE
+[2023.05.23-05.54.44:963][992]Cmd: ACTOR DELETE
+[2023.05.23-05.54.44:964][992]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.23-05.54.45:015][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.23-05.54.45:017][992]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2023.05.23-05.54.45:757][ 75]Cmd: DELETE
+[2023.05.23-05.54.45:757][ 75]Cmd: ACTOR DELETE
+[2023.05.23-05.54.45:758][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.23-05.54.45:810][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.23-05.54.45:813][ 75]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2023.05.23-05.54.46:688][175]Cmd: DELETE
+[2023.05.23-05.54.46:688][175]Cmd: ACTOR DELETE
+[2023.05.23-05.54.46:690][175]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.23-05.54.46:738][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.23-05.54.46:741][175]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2023.05.23-05.54.50:942][661]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/CornerLight_Mat.CornerLight_Mat_C
+[2023.05.23-05.54.50:942][661]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/CornerLight_Mat.CornerLight_Mat_C
+[2023.05.23-05.54.50:944][661]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/CornerLight_Mat.CornerLight_Mat as actor: CornerLight_Mat_C /Game/Battle.Battle:PersistentLevel.CornerLight_Mat_C_2
+[2023.05.23-05.54.50:949][661]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/CornerLight_Mat.CornerLight_Mat as actor: CornerLight_Mat_C /Game/Battle.Battle:PersistentLevel.CornerLight_Mat_C_2
+[2023.05.23-05.54.53:699][985]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/CornerLight_Mat.CornerLight_Mat_C
+[2023.05.23-05.54.53:699][985]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/CornerLight_Mat.CornerLight_Mat_C
+[2023.05.23-05.54.53:704][985]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/CornerLight_Mat.CornerLight_Mat as actor: CornerLight_Mat_C /Game/Battle.Battle:PersistentLevel.CornerLight_Mat_C_3
+[2023.05.23-05.54.53:710][985]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/CornerLight_Mat.CornerLight_Mat as actor: CornerLight_Mat_C /Game/Battle.Battle:PersistentLevel.CornerLight_Mat_C_3
+[2023.05.23-05.55.57:328][442]Cmd: EDIT COPY
+[2023.05.23-05.55.58:220][548]Cmd: EDIT PASTE
+[2023.05.23-05.56.10:925][  7]Cmd: TRANSACTION UNDO
+[2023.05.23-05.56.10:925][  7]LogEditorTransaction: Undo Move Elements
+[2023.05.23-05.56.15:349][455]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/1SideLight_Mat.1SideLight_Mat_C
+[2023.05.23-05.56.15:350][455]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/1SideLight_Mat.1SideLight_Mat_C
+[2023.05.23-05.56.15:362][455]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/1SideLight_Mat.1SideLight_Mat as actor: 1SideLight_Mat_C /Game/Battle.Battle:PersistentLevel.1SideLight_Mat_C_0
+[2023.05.23-05.56.15:378][455]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/1SideLight_Mat.1SideLight_Mat as actor: 1SideLight_Mat_C /Game/Battle.Battle:PersistentLevel.1SideLight_Mat_C_0
+[2023.05.23-05.56.22:013][972]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/1SideLight_Mat.1SideLight_Mat_C
+[2023.05.23-05.56.22:013][972]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/1SideLight_Mat.1SideLight_Mat_C
+[2023.05.23-05.56.22:026][972]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/1SideLight_Mat.1SideLight_Mat as actor: 1SideLight_Mat_C /Game/Battle.Battle:PersistentLevel.1SideLight_Mat_C_1
+[2023.05.23-05.56.22:043][972]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/1SideLight_Mat.1SideLight_Mat as actor: 1SideLight_Mat_C /Game/Battle.Battle:PersistentLevel.1SideLight_Mat_C_1
+[2023.05.23-05.57.09:887][476]Cmd: EDIT COPY
+[2023.05.23-05.57.10:345][531]Cmd: EDIT PASTE
+[2023.05.23-05.58.15:126][688]Cmd: EDIT COPY
+[2023.05.23-05.58.15:560][740]Cmd: EDIT PASTE
+[2023.05.23-05.58.35:349][918]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.35:349][918]LogEditorTransaction: Undo Move Elements
+[2023.05.23-05.58.35:844][929]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.35:844][929]LogEditorTransaction: Undo Move Elements
+[2023.05.23-05.58.36:201][961]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.36:201][961]LogEditorTransaction: Undo Rotate Elements
+[2023.05.23-05.58.36:585][  2]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.36:585][  2]LogEditorTransaction: Undo Paste
+[2023.05.23-05.58.36:985][ 47]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.36:985][ 47]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.23-05.58.37:360][ 90]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.37:360][ 90]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.23-05.58.37:757][134]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.37:757][134]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.23-05.58.38:157][179]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.38:157][179]LogEditorTransaction: Undo Move Elements
+[2023.05.23-05.58.38:516][219]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.38:516][219]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.23-05.58.38:741][244]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.38:741][244]LogEditorTransaction: Undo Move Elements
+[2023.05.23-05.58.38:959][266]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.38:959][266]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.23-05.58.39:191][271]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.39:191][271]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.23-05.58.39:405][275]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.39:405][275]LogEditorTransaction: Undo Set Scale
+[2023.05.23-05.58.39:535][280]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.39:535][280]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.23-05.58.39:719][300]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.39:719][300]LogEditorTransaction: Undo Set Scale
+[2023.05.23-05.58.39:894][318]Cmd: TRANSACTION UNDO
+[2023.05.23-05.58.39:894][318]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.23-05.58.41:471][504]Cmd: DELETE
+[2023.05.23-05.58.41:471][504]Cmd: ACTOR DELETE
+[2023.05.23-05.58.41:477][504]LogEditorActor: Deleted Actor: 1SideLight_Mat_C
+[2023.05.23-05.58.41:650][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.23-05.58.41:658][504]LogEditorActor: Deleted 1 Actors (0.187 secs)
+[2023.05.23-05.58.42:156][559]Cmd: DELETE
+[2023.05.23-05.58.42:156][559]Cmd: ACTOR DELETE
+[2023.05.23-05.58.42:158][559]LogEditorActor: Deleted Actor: 1SideLight_Mat_C
+[2023.05.23-05.58.42:212][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.05.23-05.58.42:215][559]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.05.23-05.59.01:207][755]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.05.23-05.59.01:207][755]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.05.23-05.59.01:207][755]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Battle.Battle:PersistentLevel.StaticMeshActor_5
+[2023.05.23-05.59.01:209][755]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Battle.Battle:PersistentLevel.StaticMeshActor_5
+[2023.05.23-06.01.39:060][274]LogContentBrowser: Attempting asset rename: Glow_Inst_2 -> Glow_Inst_en
+[2023.05.23-06.01.39:083][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.01.39:126][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Glow_Inst_en" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_Inst_en.uasset" SILENT=true
+[2023.05.23-06.01.39:127][274]LogSavePackage: Moving output files for package: /Game/MapContent/Glow_Inst_en
+[2023.05.23-06.01.39:127][274]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Glow_Inst_en2D5C3F6142AD9E5F1571D3A47F114AD4.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_Inst_en.uasset'
+[2023.05.23-06.01.39:134][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 294 ms)
+[2023.05.23-06.01.39:204][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.05.23-06.01.39:256][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.23-06.01.39:302][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.23-06.01.39:310][274]AssetCheck: New page: Asset Save: Glow_Inst_en
+[2023.05.23-06.01.39:310][274]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/MapContent/Glow_Inst_en.Glow_Inst_en
+[2023.05.23-06.01.49:517][400]LogContentBrowser: Attempting asset rename: Glow_Inst_2 -> Glow_Inst_net
+[2023.05.23-06.01.49:534][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.01.49:583][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Glow_Inst_net" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_Inst_net.uasset" SILENT=true
+[2023.05.23-06.01.49:584][400]LogSavePackage: Moving output files for package: /Game/MapContent/Glow_Inst_net
+[2023.05.23-06.01.49:584][400]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Glow_Inst_net0612B66C48DBEE06F966F282F8AF65F3.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_Inst_net.uasset'
+[2023.05.23-06.01.49:588][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 348 ms)
+[2023.05.23-06.01.49:648][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.05.23-06.01.49:695][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.05.23-06.01.49:740][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.23-06.01.49:745][400]AssetCheck: New page: Asset Save: Glow_Inst_net
+[2023.05.23-06.01.49:745][400]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/MapContent/Glow_Inst_net.Glow_Inst_net
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: ================================================
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Total job queries 166, among them cache hits 23 (13.86%)
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Tracking 140 distinct input hashes that result in 113 distinct outputs (80.71%)
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: RAM used: 0.42 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Job execution time: average 0.32 s, max 0.32 s
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Job life time (pending + execution): average 0.40 s, max 0.40
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.40 s
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Average processing rate: 2.49 jobs/sec
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Total thread time: 0.15 s
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Total thread preprocess time: 0.02 s
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Percentage time preprocessing: 15.34%
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Effective parallelization: 0.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2023.05.23-06.01.56:960][161]LogShaderCompilers: Display: ================================================
+[2023.05.23-06.02.01:199][648]LogContentBrowser: Attempting asset rename: Glow_Inst_en -> Glow_Inst_en
+[2023.05.23-06.02.10:293][722]LogContentBrowser: Attempting asset rename: Glow_2 -> Glow_en
+[2023.05.23-06.02.10:310][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.02.11:441][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Glow_en" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_en.uasset" SILENT=true
+[2023.05.23-06.02.11:442][722]LogSavePackage: Moving output files for package: /Game/MapContent/Glow_en
+[2023.05.23-06.02.11:442][722]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Glow_enB54A01B844180E3A9A540CA807EC5BB2.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_en.uasset'
+[2023.05.23-06.02.11:448][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.13 sec (total: 1.48 sec)
+[2023.05.23-06.02.11:531][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.23-06.02.11:582][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.05.23-06.02.11:630][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.05.23-06.02.11:636][722]AssetCheck: New page: Asset Save: Glow_en
+[2023.05.23-06.02.11:636][722]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MapContent/Glow_en.Glow_en
+[2023.05.23-06.02.22:442][920]LogContentBrowser: Attempting asset rename: Glow_en_2 -> Glow_net
+[2023.05.23-06.02.22:459][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.02.23:454][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Glow_net" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_net.uasset" SILENT=true
+[2023.05.23-06.02.23:456][920]LogSavePackage: Moving output files for package: /Game/MapContent/Glow_net
+[2023.05.23-06.02.23:456][920]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Glow_net20D56701435D9B46A4C313BF582FC72B.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_net.uasset'
+[2023.05.23-06.02.23:461][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.00 sec (total: 2.48 sec)
+[2023.05.23-06.02.23:540][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.23-06.02.23:589][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.05.23-06.02.23:635][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.05.23-06.02.23:641][920]AssetCheck: New page: Asset Save: Glow_net
+[2023.05.23-06.02.23:641][920]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MapContent/Glow_net.Glow_net
+[2023.05.23-06.02.24:799][ 39]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MapContent/Glow_net.Glow_net
+[2023.05.23-06.02.24:815][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-06.02.25:019][ 39]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.02.25:019][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.02.25:019][ 39]MaterialEditorStats: Shader Count: 0
+[2023.05.23-06.02.25:030][ 39]LogViewport: Scene viewport resized to 158x190, mode Windowed.
+[2023.05.23-06.02.25:748][ 83]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.02.25:748][ 83]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.02.25:748][ 83]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.23-06.02.25:748][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.02.25:748][ 83]MaterialEditorStats: Shader Count: 4
+[2023.05.23-06.02.27:162][243]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2023.05.23-06.02.45:147][354]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.23-06.02.45:152][354]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.02.45:152][354]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.02.45:152][354]MaterialEditorStats: Shader Count: 0
+[2023.05.23-06.02.45:186][357]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.02.45:186][357]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.02.45:186][357]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.23-06.02.45:186][357]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.02.45:186][357]MaterialEditorStats: Shader Count: 4
+[2023.05.23-06.02.52:861][261]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.23-06.02.57:037][261]LogSlate: Window 'Message' being destroyed
+[2023.05.23-06.02.57:041][261]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/MapContent/Glow_net.Glow_net
+(Selecting 'No' will cause all changes to be lost!)
+[2023.05.23-06.02.57:054][261]LogSlate: Window 'Glow_net' being destroyed
+[2023.05.23-06.02.57:055][261]LogSlate: Window 'Glow_net' being destroyed
+[2023.05.23-06.02.57:066][261]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.02.57:066][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.03.05:276][184]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MapContent/Glow_en.Glow_en
+[2023.05.23-06.03.05:279][184]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-06.03.05:433][184]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.03.05:433][184]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.03.05:433][184]MaterialEditorStats: Shader Count: 0
+[2023.05.23-06.03.05:440][184]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2023.05.23-06.03.05:923][224]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.03.05:924][224]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.03.05:924][224]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.03.05:924][224]MaterialEditorStats: Shader Count: 3
+[2023.05.23-06.03.06:018][235]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.03.06:018][235]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.03.06:018][235]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.23-06.03.06:018][235]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.03.06:018][235]MaterialEditorStats: Shader Count: 4
+[2023.05.23-06.03.16:129][384]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.23-06.03.16:134][384]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.03.16:134][384]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.03.16:134][384]MaterialEditorStats: Shader Count: 0
+[2023.05.23-06.03.16:173][387]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.03.16:173][387]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.03.16:173][387]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.23-06.03.16:173][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.03.16:173][387]MaterialEditorStats: Shader Count: 4
+[2023.05.23-06.03.23:473][226]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.23-06.03.23:479][226]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.03.23:479][226]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.03.23:479][226]MaterialEditorStats: Shader Count: 0
+[2023.05.23-06.03.23:516][229]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.03.23:516][229]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.03.23:516][229]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.23-06.03.23:516][229]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.03.23:516][229]MaterialEditorStats: Shader Count: 4
+[2023.05.23-06.03.26:096][528]LogMaterialEditor: Saving and Compiling material Glow_en
+[2023.05.23-06.03.26:521][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.23-06.03.26:716][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.05.23-06.03.26:723][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.03.26:813][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Glow_en" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_en.uasset" SILENT=true
+[2023.05.23-06.03.26:814][528]LogSavePackage: Moving output files for package: /Game/MapContent/Glow_en
+[2023.05.23-06.03.26:815][528]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Glow_enFC527BAB4AE5266FE147E99F83658CA8.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_en.uasset'
+[2023.05.23-06.03.26:819][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 2.58 sec)
+[2023.05.23-06.03.26:825][528]AssetCheck: New page: Asset Save: Glow_en
+[2023.05.23-06.03.26:825][528]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MapContent/Glow_en.Glow_en
+[2023.05.23-06.03.26:826][528]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.03.26:826][528]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.03.26:826][528]MaterialEditorStats: MaxSampler: 211 instructions
+[2023.05.23-06.03.26:826][528]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.23-06.03.26:826][528]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.03.26:826][528]MaterialEditorStats: Shader Count: 16
+[2023.05.23-06.03.27:637][614]LogSlate: Window 'Glow_en' being destroyed
+[2023.05.23-06.03.27:641][614]LogSlate: Window 'Glow_en' being destroyed
+[2023.05.23-06.03.27:654][614]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.03.27:654][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.03.30:243][898]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/MapContent/Glow_Inst_en.Glow_Inst_en
+[2023.05.23-06.03.30:244][898]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-06.03.30:409][898]LogViewport: Scene viewport resized to 1335x902, mode Windowed.
+[2023.05.23-06.03.30:427][898]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.23-06.03.34:371][287]LogSlate: Window 'Glow_Inst_en' being destroyed
+[2023.05.23-06.03.34:376][287]LogSlate: Window 'Glow_Inst_en' being destroyed
+[2023.05.23-06.03.34:431][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.23-06.03.34:510][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.23-06.03.34:528][287]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.03.34:528][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.03.39:286][838]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MapContent/CornerLight_Mat.CornerLight_Mat
+[2023.05.23-06.03.39:286][838]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-06.03.45:996][569]LogViewport: Scene viewport resized to 1001x691, mode Windowed.
+[2023.05.23-06.03.57:259][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.23-06.03.59:484][891]LogSlate: Window 'Save Content' being destroyed
+[2023.05.23-06.04.04:230][438]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.04.04:230][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.04.44:862][ 54]LogLinker: Warning: [AssetLog] D:\c14200062(1)\ManproTi_11\Content\MapContent\NeonDodgeball_Inst.uasset: Failed to load '/Game/NeonDodgeball': Can't find file.
+[2023.05.23-06.04.44:862][ 54]LogLinker: Warning: [AssetLog] D:\c14200062(1)\ManproTi_11\Content\MapContent\NeonDodgeball_Inst.uasset: VerifyImport: Failed to load package for import object 'Package /Game/NeonDodgeball'
+[2023.05.23-06.04.44:862][ 54]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/MapContent/NeonDodgeball_Inst.NeonDodgeball_Inst
+[2023.05.23-06.04.44:863][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-06.04.45:024][ 54]LogViewport: Scene viewport resized to 1335x902, mode Windowed.
+[2023.05.23-06.04.47:877][375]LogSlate: Window 'NeonDodgeball_Inst' being destroyed
+[2023.05.23-06.04.47:894][375]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.04.47:894][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.05.05:447][387]LogContentBrowser: Attempting asset rename: Glow_Inst_net -> Dogdeball
+[2023.05.23-06.05.05:464][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.05.05:502][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Dogdeball" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Dogdeball.uasset" SILENT=true
+[2023.05.23-06.05.05:503][387]LogSavePackage: Moving output files for package: /Game/MapContent/Dogdeball
+[2023.05.23-06.05.05:503][387]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/DogdeballF198A92F4591810368192089F577B013.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Dogdeball.uasset'
+[2023.05.23-06.05.05:506][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 2.62 sec)
+[2023.05.23-06.05.05:604][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.05.23-06.05.05:663][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.05.23-06.05.05:717][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.05.23-06.05.05:725][387]AssetCheck: New page: Asset Save: Dogdeball
+[2023.05.23-06.05.05:725][387]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/MapContent/Dogdeball.Dogdeball
+[2023.05.23-06.05.08:630][704]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/MapContent/Dogdeball.Dogdeball
+[2023.05.23-06.05.08:633][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-06.05.08:793][704]LogViewport: Scene viewport resized to 1335x902, mode Windowed.
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: ================================================
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Total job queries 294, among them cache hits 83 (28.23%)
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Tracking 211 distinct input hashes that result in 137 distinct outputs (64.93%)
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: RAM used: 0.58 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Shaders Compiled: 64
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Jobs assigned 64, completed 64 (100.00%)
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Average time worker was idle: 8.99 s
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Job execution time: average 0.59 s, max 0.96 s
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Job life time (pending + execution): average 0.66 s, max 1.07
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.30 s
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Jobs were issued in 64 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Average processing rate: 8.76 jobs/sec
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Total thread time: 30.45 s
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Total thread preprocess time: 2.06 s
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Percentage time preprocessing: 6.78%
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Effective parallelization: 4.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.75 sec, max 0.76 sec, min 0.75 sec)
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.74 sec, max 0.75 sec, min 0.72 sec)
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.74 sec, max 0.75 sec, min 0.72 sec)
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.91% of total time (compiled   12 times, average 0.43 sec, max 0.61 sec, min 0.30 sec)
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.23% of total time (compiled   12 times, average 0.41 sec, max 0.59 sec, min 0.31 sec)
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.79% of total time (compiled    8 times, average 0.33 sec, max 0.44 sec, min 0.25 sec)
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.05% of total time (compiled    2 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.95% of total time (compiled    2 times, average 0.75 sec, max 0.76 sec, min 0.75 sec)
+[2023.05.23-06.05.11:413][980]LogShaderCompilers: Display: ================================================
+[2023.05.23-06.05.19:505][880]Cmd: TRANSACTION UNDO
+[2023.05.23-06.05.19:505][880]LogEditorTransaction: Undo Edit Parent
+[2023.05.23-06.05.26:087][602]LogSlate: Window 'Dogdeball' being destroyed
+[2023.05.23-06.05.26:147][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.05.23-06.05.26:753][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.05.23-06.05.26:771][602]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.05.26:771][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.05.45:115][765]LogContentBrowser: Attempting asset rename: Glow_net -> Glow_ball
+[2023.05.23-06.05.45:132][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.05.45:169][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Glow_ball" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_ball.uasset" SILENT=true
+[2023.05.23-06.05.45:170][765]LogSavePackage: Moving output files for package: /Game/MapContent/Glow_ball
+[2023.05.23-06.05.45:170][765]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Glow_ballA34791E44A3889E52E72519B37FCD837.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_ball.uasset'
+[2023.05.23-06.05.45:174][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 2.66 sec)
+[2023.05.23-06.05.45:246][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.05.23-06.05.45:300][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.05.23-06.05.45:349][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.05.23-06.05.45:357][765]AssetCheck: New page: Asset Save: Glow_ball
+[2023.05.23-06.05.45:357][765]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MapContent/Glow_ball.Glow_ball
+[2023.05.23-06.05.46:521][892]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MapContent/Glow_ball.Glow_ball
+[2023.05.23-06.05.46:523][892]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-06.05.46:674][892]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.05.46:674][892]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.05.46:674][892]MaterialEditorStats: Shader Count: 0
+[2023.05.23-06.05.46:679][892]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2023.05.23-06.05.47:303][952]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.05.47:303][952]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.05.47:303][952]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.05.47:303][952]MaterialEditorStats: Shader Count: 3
+[2023.05.23-06.05.47:403][964]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.05.47:403][964]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.05.47:403][964]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.23-06.05.47:403][964]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.05.47:403][964]MaterialEditorStats: Shader Count: 4
+[2023.05.23-06.05.53:335][643]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.23-06.05.53:341][643]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.05.53:341][643]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.05.53:341][643]MaterialEditorStats: Shader Count: 0
+[2023.05.23-06.05.53:381][646]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.05.53:381][646]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.05.53:381][646]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.23-06.05.53:381][646]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.05.53:381][646]MaterialEditorStats: Shader Count: 4
+[2023.05.23-06.05.56:934][849]LogSlate: Window 'Message' being destroyed
+[2023.05.23-06.05.56:939][849]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/MapContent/Glow_ball.Glow_ball
+(Selecting 'No' will cause all changes to be lost!)
+[2023.05.23-06.05.57:913][939]LogMaterialEditor: Saving and Compiling material Glow_ball
+[2023.05.23-06.05.58:317][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.05.23-06.05.58:926][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.05.23-06.05.58:933][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.05.59:965][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Glow_ball" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_ball.uasset" SILENT=true
+[2023.05.23-06.05.59:966][939]LogSavePackage: Moving output files for package: /Game/MapContent/Glow_ball
+[2023.05.23-06.05.59:966][939]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Glow_ball82FD21F04D191C2444D6E0A47C3C4959.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_ball.uasset'
+[2023.05.23-06.05.59:972][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.03 sec (total: 3.70 sec)
+[2023.05.23-06.05.59:979][939]AssetCheck: New page: Asset Save: Glow_ball
+[2023.05.23-06.05.59:979][939]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MapContent/Glow_ball.Glow_ball
+[2023.05.23-06.05.59:980][939]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.05.59:980][939]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.05.59:980][939]MaterialEditorStats: MaxSampler: 211 instructions
+[2023.05.23-06.05.59:980][939]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.23-06.05.59:980][939]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.05.59:980][939]MaterialEditorStats: Shader Count: 16
+[2023.05.23-06.06.01:953][162]LogSlate: Window 'Glow_ball' being destroyed
+[2023.05.23-06.06.01:957][162]LogSlate: Window 'Glow_ball' being destroyed
+[2023.05.23-06.06.01:970][162]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.06.01:970][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.06.04:185][408]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/MapContent/Dogdeball.Dogdeball
+[2023.05.23-06.06.04:186][408]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-06.06.04:358][408]LogViewport: Scene viewport resized to 1335x902, mode Windowed.
+[2023.05.23-06.06.08:587][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.06.08:647][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Dogdeball" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Dogdeball.uasset" SILENT=true
+[2023.05.23-06.06.08:706][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.05.23-06.06.08:760][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.05.23-06.06.08:763][844]LogSavePackage: Moving output files for package: /Game/MapContent/Dogdeball
+[2023.05.23-06.06.08:763][844]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Dogdeball83464CA54DE5984F1BA52E89E2A972B2.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Dogdeball.uasset'
+[2023.05.23-06.06.08:769][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 3.89 sec)
+[2023.05.23-06.06.08:776][844]AssetCheck: New page: Asset Save: Dogdeball
+[2023.05.23-06.06.08:776][844]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/MapContent/Dogdeball.Dogdeball
+[2023.05.23-06.06.09:730][954]LogSlate: Window 'Dogdeball' being destroyed
+[2023.05.23-06.06.09:734][954]LogSlate: Window 'Dogdeball' being destroyed
+[2023.05.23-06.06.09:746][954]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.06.09:746][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.06.22:344][438]LogViewport: Scene viewport resized to 495x284, mode Windowed.
+[2023.05.23-06.07.06:320][572]LogViewport: Scene viewport resized to 495x284, mode Windowed.
+[2023.05.23-06.07.20:270][207]LogViewport: Scene viewport resized to 495x284, mode Windowed.
+[2023.05.23-06.07.28:351][152]LogViewport: Scene viewport resized to 1001x693, mode Windowed.
+[2023.05.23-06.07.40:505][510]BlueprintLog: New page: Compile bax
+[2023.05.23-06.07.40:595][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.23-06.07.52:418][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.07.52:466][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bax" FILE="D:/c14200062(1)/ManproTi_11/Content/bax.uasset" SILENT=true
+[2023.05.23-06.07.52:471][855]LogSavePackage: Moving output files for package: /Game/bax
+[2023.05.23-06.07.52:471][855]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/bax7DEC1B7E40708E2D992918B6937355A3.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/bax.uasset'
+[2023.05.23-06.07.52:475][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 3.94 sec)
+[2023.05.23-06.07.52:484][855]AssetCheck: New page: Asset Save: bax
+[2023.05.23-06.07.52:484][855]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/bax.bax
+[2023.05.23-06.07.53:235][939]BlueprintLog: New page: Compile bax
+[2023.05.23-06.07.53:314][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.23-06.08.19:206][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.05.23-06.08.19:210][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battle" FILE="D:/c14200062(1)/ManproTi_11/Saved/Autosaves/Game/Battle_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.05.23-06.08.19:221][968]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Battle_Auto3
+[2023.05.23-06.08.19:221][968]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Battle_Auto3CBE93CDB4E16B183E551569DF1630934.tmp' to 'D:/c14200062(1)/ManproTi_11/Saved/Autosaves/Game/Battle_Auto3.umap'
+[2023.05.23-06.08.19:228][968]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Battle' took 0.077
+[2023.05.23-06.08.19:228][968]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2023.05.23-06.08.19:228][968]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MapContent/Glow_Inst_en] ([1] browsable assets)...
+[2023.05.23-06.08.19:232][968]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/MapContent/Glow_Inst_en.Glow_Inst_en]
+[2023.05.23-06.08.19:232][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/MapContent/Glow_Inst_en]
+[2023.05.23-06.08.19:232][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Glow_Inst_en" FILE="D:/c14200062(1)/ManproTi_11/Saved/Autosaves/Game/MapContent/Glow_Inst_en_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.05.23-06.08.19:233][968]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MapContent/Glow_Inst_en_Auto3
+[2023.05.23-06.08.19:233][968]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Glow_Inst_en_Auto364BBDF854FE0CA7C8B6DEEAE1564EA5D.tmp' to 'D:/c14200062(1)/ManproTi_11/Saved/Autosaves/Game/MapContent/Glow_Inst_en_Auto3.uasset'
+[2023.05.23-06.08.19:233][968]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.05.23-06.08.39:967][235]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.05.23-06.08.39:976][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-06.08.39:976][235]LogHMD: Initializing OVRPlugin session
+[2023.05.23-06.08.39:976][235]LogOVRPlugin: Display: OpenXR SDK version 1.0.26
+[2023.05.23-06.08.39:976][235]LogOVRPlugin: Error: Device required (arvr\projects\integrations\ovrplugin\src\util\compositoropenxr_d3d11.cpp:239)
+[2023.05.23-06.08.39:976][235]LogOVRPlugin: CompositorOpenXR::Initialize()
+[2023.05.23-06.08.39:976][235]LogOVRPlugin: CompositorOpenXR::Initialize() - refresh available extensions
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display: Available Extensions: (49)
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_KHR_D3D11_enable SpecVersion=9
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_KHR_D3D12_enable SpecVersion=9
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_KHR_opengl_enable SpecVersion=10
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable SpecVersion=8
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable2 SpecVersion=2
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_depth SpecVersion=6
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_KHR_win32_convert_performance_counter_time SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_KHR_convert_timespec_time SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cube SpecVersion=8
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cylinder SpecVersion=4
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_equirect SpecVersion=3
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_KHR_visibility_mask SpecVersion=2
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_color_scale_bias SpecVersion=5
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_EXT_win32_appcontainer_compatible SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_EXT_debug_utils SpecVersion=4
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_OCULUS_recenter_event SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_OCULUS_audio_device_guid SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_color_space SpecVersion=3
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_display_refresh_rate SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_META_performance_metrics SpecVersion=2
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_META_headset_id SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_OCULUS_ovrsession_handle SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_EXT_hand_tracking SpecVersion=4
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_aim SpecVersion=2
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_capsules SpecVersion=3
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_mesh SpecVersion=3
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_body_tracking SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_keyboard_tracking SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_passthrough SpecVersion=3
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_triangle_mesh SpecVersion=2
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_METAX1_passthrough_color_lut SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_render_model SpecVersion=3
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_container SpecVersion=2
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_scene SpecVersion=2
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_query SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_user SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage_batch SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_sharing SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_METAX1_virtual_keyboard SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_haptic_amplitude_envelope SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_haptic_pcm SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_pro SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_proximity SpecVersion=1
+[2023.05.23-06.08.40:023][235]LogOVRPlugin: Display:  Name=XR_OCULUS_external_camera SpecVersion=1
+[2023.05.23-06.08.40:024][235]LogOVRPlugin: Display:  Name=XR_FBX1_touch_controller_extras SpecVersion=1
+[2023.05.23-06.08.40:024][235]LogOVRPlugin: Display:  Name=XR_EXT_palm_pose SpecVersion=2
+[2023.05.23-06.08.40:024][235]LogOVRPlugin: Display:  Name=XR_EXT_active_action_set_priority SpecVersion=1
+[2023.05.23-06.08.40:024][235]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_performance_settings
+[2023.05.23-06.08.40:024][235]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state
+[2023.05.23-06.08.40:024][235]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state_vulkan
+[2023.05.23-06.08.40:024][235]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation
+[2023.05.23-06.08.40:024][235]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_configuration
+[2023.05.23-06.08.40:024][235]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_vulkan
+[2023.05.23-06.08.40:024][235]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_vulkan_swapchain_create_info
+[2023.05.23-06.08.40:024][235]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_foveation_eye_tracked
+[2023.05.23-06.08.40:024][235]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_KHR_composition_layer_equirect2
+[2023.05.23-06.08.40:024][235]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_passthrough_keyboard_hands
+[2023.05.23-06.08.40:024][235]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking
+[2023.05.23-06.08.40:024][235]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_eye_tracking_social
+[2023.05.23-06.08.40:026][235]LogOVRPlugin: Display: Initialize: xrCreateInstance() succeeded
+[2023.05.23-06.08.40:026][235]LogOVRPlugin: Display: OpenXR runtime name: Oculus, version 1.85.0
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Display: xrGetSystem() succeeded. xrSystemId 20
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Display: OpenXR system properties:
+  venderId 4294955582, systemName Oculus Quest2, maxSwapchainImage(4096, 4096), maxLayerCount 16, orientationTracking 1, positionTracking 1
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Display: OpenXR hand tracking system properties:
+  hand tracking supported 1
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  body tracking supported 1
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Expected XrViewConfigurationType found (XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO)
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: XrViewConfigurationProperties: type XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO, fovMutable 0
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Display: xrEnumerateViewConfigurationViews() found 2 views
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Display:   View: Recommended Width=2064 Height=2096 SampleCount=1 Maximum Width=4128 Height=4192 SampleCount=4
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Display:   View: Recommended Width=2064 Height=2096 SampleCount=1 Maximum Width=4128 Height=4192 SampleCount=4
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/app/cpu_frametime
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/app/gpu_frametime
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/cpu_frametime
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/gpu_frametime
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/dropped_frame_count
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/spacewarp_mode
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Display: CompositorOpenXR::Initialize() - succeeded
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Display: OVRPlugin 1.82.0 ... initialized
+[2023.05.23-06.08.40:027][235]LogOVRPlugin: Error: CreateFoveationProfile() failed: required extensions not enabled: XR_FB_foveation 0 (arvr\projects\integrations\ovrplugin\src\util\compositoropenxr.cpp:7083)
+[2023.05.23-06.08.41:215][235]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_UNKNOWN->XR_SESSION_STATE_IDLE session=72153732585881601 time=344051401572000
+[2023.05.23-06.08.41:215][235]LogOVRPlugin: [XR_SESSION] ... running 0 visible 0 focused 0
+[2023.05.23-06.08.41:215][235]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_IDLE->XR_SESSION_STATE_READY session=72153732585881601 time=344051401578200
+[2023.05.23-06.08.41:215][235]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2023.05.23-06.08.41:216][235]LogOVRPlugin: CompositorOpenXR_D3D11::Layer::Initialize(): CreateSwapchain for eye 0: 0400577000000001, 3 stages
+[2023.05.23-06.08.41:216][235]LogOVRPlugin:  ... m_textureStages[0][0] = 0000025967299B78
+[2023.05.23-06.08.41:216][235]LogOVRPlugin:  ... m_textureStages[0][1] = 0000025967299DF8
+[2023.05.23-06.08.41:217][235]LogOVRPlugin:  ... m_textureStages[0][2] = 000002596729B5B8
+[2023.05.23-06.08.41:217][235]LogHMD: Allocating Oculus 4128 x 2096 rendertarget swapchain
+[2023.05.23-06.08.41:217][235]LogOVRPlugin: Display: [CompositorOpenXR::SetClientColorDesc] Change colorspace from 0 to 7
+[2023.05.23-06.08.41:217][235]PIE: New page: PIE session: Battle (May 23, 2023, 8:08:41 PM)
+[2023.05.23-06.08.41:217][235]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battle
+[2023.05.23-06.08.41:220][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003862s)
+[2023.05.23-06.08.41:220][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battle.Battle to /Game/UEDPIE_0_Battle.Battle (0.003884s)
+[2023.05.23-06.08.41:220][235]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-06.08.41:221][235]LogAIModule: Creating AISystem for world Battle
+[2023.05.23-06.08.41:221][235]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2023.05.23-06.08.41:275][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.05.23-06.08.41:277][235]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.05.23-06.08.41:277][235]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-06.08.41:277][235]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-06.08.41:277][235]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-06.08.41:277][235]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-06.08.41:277][235]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.23-06.08.41:277][235]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.23-06.08.41:277][235]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.23-06.08.41:277][235]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-06.08.41:277][235]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-06.08.41:278][235]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-06.08.41:278][235]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-06.08.41:279][235]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.23-06.08.41:296][235]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.05.23-06.08.41:296][235]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-06.08.41:297][235]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-06.08.41:297][235]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-06.08.41:297][235]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.05.23-06.08.41:297][235]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.05.23-06.08.41:298][235]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.05.23-06.08.41:298][235]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.05.23-06.08.41:298][235]LogInit: FAudioDevice initialized.
+[2023.05.23-06.08.41:298][235]LogAudio: Display: Audio Device (ID: 32) registered with world 'Battle'.
+[2023.05.23-06.08.41:305][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-06.08.41:306][235]LogViewport: Scene viewport resized to 4128x2096, mode Windowed.
+[2023.05.23-06.08.41:333][235]LogLoad: Game class is 'GameModeBase'
+[2023.05.23-06.08.41:337][235]LogWorld: Bringing World /Game/UEDPIE_0_Battle.Battle up for play (max tick rate 0) at 2023.05.23-13.08.41
+[2023.05.23-06.08.41:337][235]LogWorld: Bringing up level for play took: 0.003227
+[2023.05.23-06.08.41:339][235]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.05.23-06.08.41:340][235]Cmd: vr.PixelDensity 1.0
+[2023.05.23-06.08.41:340][235]vr.PixelDensity = "1"
+[2023.05.23-06.08.41:342][235]PIE: Server logged in
+[2023.05.23-06.08.41:343][235]PIE: Play in editor total start time 1.369 seconds.
+[2023.05.23-06.08.41:488][236]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_READY->XR_SESSION_STATE_SYNCHRONIZED session=72153732585881601 time=344052855792599
+[2023.05.23-06.08.41:488][236]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2023.05.23-06.08.42:225][287]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_VISIBLE session=72153732585881601 time=344053593594400
+[2023.05.23-06.08.42:225][287]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 0
+[2023.05.23-06.08.42:225][287]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_FOCUSED session=72153732585881601 time=344053593607699
+[2023.05.23-06.08.42:225][287]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 1
+[2023.05.23-06.08.52:783][665]LogBlueprintUserMessages: [VRPawn_C_1] bax
+[2023.05.23-06.08.52:783][665]LogBlueprintUserMessages: [VRPawn_C_1] Grab
+[2023.05.23-06.08.52:787][666]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.05.23-06.08.52:813][667]LogOVRPlugin: CompositorOpenXR_D3D11::Layer::Initialize(): CreateSwapchain for eye 0: 0400577000000002, 3 stages
+[2023.05.23-06.08.52:813][667]LogOVRPlugin:  ... m_textureStages[0][0] = 00000259633E3238
+[2023.05.23-06.08.52:813][667]LogOVRPlugin:  ... m_textureStages[0][1] = 00000259633E49B8
+[2023.05.23-06.08.52:813][667]LogOVRPlugin:  ... m_textureStages[0][2] = 00000259633E95F8
+[2023.05.23-06.08.59:623][ 13]LogBlueprintUserMessages: [VRPawn_C_1] Release
+[2023.05.23-06.09.02:995][253]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.23-06.09.03:004][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-06.09.03:004][253]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Battle
+[2023.05.23-06.09.03:036][253]LogSlate: Window 'MyProject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5) OculusXRHMD OVRPlugin: 1.82.0' being destroyed
+[2023.05.23-06.09.03:087][253]LogWorld: UWorld::CleanupWorld for Battle, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.09.03:087][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.09.03:090][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-06.09.03:096][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.09.03:153][253]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-06.09.03:153][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.05.23-06.09.03:155][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.05.23-06.09.03:162][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.23-06.09.03:202][254]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.05.23-06.09.03:202][254]LogHMD: Warning: Destroying layer 1
+[2023.05.23-06.09.03:202][254]LogHMD: Warning: Destroying layer 2
+[2023.05.23-06.09.03:202][254]LogOVRPlugin: CompositorOpenXR::~CompositorOpenXR()
+[2023.05.23-06.09.03:234][254]LogOVRPlugin: m_xrSession destroyed
+[2023.05.23-06.09.03:236][254]LogOVRPlugin: m_xrInstance destroyed
+[2023.05.23-06.09.06:794][666]LogViewport: Scene viewport resized to 1001x691, mode Windowed.
+[2023.05.23-06.09.17:743][915]BlueprintLog: New page: Compile bax
+[2023.05.23-06.09.17:828][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.23-06.09.26:546][933]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.05.23-06.09.26:552][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-06.09.26:552][933]LogHMD: Initializing OVRPlugin session
+[2023.05.23-06.09.26:552][933]LogOVRPlugin: Display: OpenXR SDK version 1.0.26
+[2023.05.23-06.09.26:552][933]LogOVRPlugin: Error: Device required (arvr\projects\integrations\ovrplugin\src\util\compositoropenxr_d3d11.cpp:239)
+[2023.05.23-06.09.26:552][933]LogOVRPlugin: CompositorOpenXR::Initialize()
+[2023.05.23-06.09.26:552][933]LogOVRPlugin: CompositorOpenXR::Initialize() - refresh available extensions
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display: Available Extensions: (49)
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_KHR_D3D11_enable SpecVersion=9
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_KHR_D3D12_enable SpecVersion=9
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_KHR_opengl_enable SpecVersion=10
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable SpecVersion=8
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable2 SpecVersion=2
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_depth SpecVersion=6
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_KHR_win32_convert_performance_counter_time SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_KHR_convert_timespec_time SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cube SpecVersion=8
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cylinder SpecVersion=4
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_equirect SpecVersion=3
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_KHR_visibility_mask SpecVersion=2
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_color_scale_bias SpecVersion=5
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_EXT_win32_appcontainer_compatible SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_EXT_debug_utils SpecVersion=4
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_OCULUS_recenter_event SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_OCULUS_audio_device_guid SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_color_space SpecVersion=3
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_display_refresh_rate SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_META_performance_metrics SpecVersion=2
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_META_headset_id SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_OCULUS_ovrsession_handle SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_EXT_hand_tracking SpecVersion=4
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_aim SpecVersion=2
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_capsules SpecVersion=3
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_mesh SpecVersion=3
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_body_tracking SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_keyboard_tracking SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_passthrough SpecVersion=3
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_triangle_mesh SpecVersion=2
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_METAX1_passthrough_color_lut SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_render_model SpecVersion=3
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_container SpecVersion=2
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_scene SpecVersion=2
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_query SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_user SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage_batch SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_sharing SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_METAX1_virtual_keyboard SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_haptic_amplitude_envelope SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_haptic_pcm SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_pro SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_proximity SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_OCULUS_external_camera SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_FBX1_touch_controller_extras SpecVersion=1
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_EXT_palm_pose SpecVersion=2
+[2023.05.23-06.09.26:602][933]LogOVRPlugin: Display:  Name=XR_EXT_active_action_set_priority SpecVersion=1
+[2023.05.23-06.09.26:603][933]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_performance_settings
+[2023.05.23-06.09.26:603][933]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state
+[2023.05.23-06.09.26:603][933]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state_vulkan
+[2023.05.23-06.09.26:603][933]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation
+[2023.05.23-06.09.26:603][933]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_configuration
+[2023.05.23-06.09.26:603][933]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_vulkan
+[2023.05.23-06.09.26:603][933]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_vulkan_swapchain_create_info
+[2023.05.23-06.09.26:603][933]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_foveation_eye_tracked
+[2023.05.23-06.09.26:603][933]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_KHR_composition_layer_equirect2
+[2023.05.23-06.09.26:603][933]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_passthrough_keyboard_hands
+[2023.05.23-06.09.26:603][933]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking
+[2023.05.23-06.09.26:603][933]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_eye_tracking_social
+[2023.05.23-06.09.26:604][933]LogOVRPlugin: Display: Initialize: xrCreateInstance() succeeded
+[2023.05.23-06.09.26:605][933]LogOVRPlugin: Display: OpenXR runtime name: Oculus, version 1.85.0
+[2023.05.23-06.09.26:605][933]LogOVRPlugin: Display: xrGetSystem() succeeded. xrSystemId 20
+[2023.05.23-06.09.26:605][933]LogOVRPlugin: Display: OpenXR system properties:
+  venderId 4294955582, systemName Oculus Quest2, maxSwapchainImage(4096, 4096), maxLayerCount 16, orientationTracking 1, positionTracking 1
+[2023.05.23-06.09.26:605][933]LogOVRPlugin: Display: OpenXR hand tracking system properties:
+  hand tracking supported 1
+[2023.05.23-06.09.26:605][933]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  body tracking supported 1
+[2023.05.23-06.09.26:605][933]LogOVRPlugin: Expected XrViewConfigurationType found (XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO)
+[2023.05.23-06.09.26:605][933]LogOVRPlugin: XrViewConfigurationProperties: type XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO, fovMutable 0
+[2023.05.23-06.09.26:605][933]LogOVRPlugin: Display: xrEnumerateViewConfigurationViews() found 2 views
+[2023.05.23-06.09.26:606][933]LogOVRPlugin: Display:   View: Recommended Width=2064 Height=2096 SampleCount=1 Maximum Width=4128 Height=4192 SampleCount=4
+[2023.05.23-06.09.26:606][933]LogOVRPlugin: Display:   View: Recommended Width=2064 Height=2096 SampleCount=1 Maximum Width=4128 Height=4192 SampleCount=4
+[2023.05.23-06.09.26:606][933]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/app/cpu_frametime
+[2023.05.23-06.09.26:606][933]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/app/gpu_frametime
+[2023.05.23-06.09.26:606][933]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/cpu_frametime
+[2023.05.23-06.09.26:606][933]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/gpu_frametime
+[2023.05.23-06.09.26:606][933]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/dropped_frame_count
+[2023.05.23-06.09.26:606][933]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/spacewarp_mode
+[2023.05.23-06.09.26:606][933]LogOVRPlugin: Display: CompositorOpenXR::Initialize() - succeeded
+[2023.05.23-06.09.26:606][933]LogOVRPlugin: Display: OVRPlugin 1.82.0 ... initialized
+[2023.05.23-06.09.26:606][933]LogOVRPlugin: Error: CreateFoveationProfile() failed: required extensions not enabled: XR_FB_foveation 0 (arvr\projects\integrations\ovrplugin\src\util\compositoropenxr.cpp:7083)
+[2023.05.23-06.09.27:459][933]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_UNKNOWN->XR_SESSION_STATE_IDLE session=72153732585881601 time=344097979743800
+[2023.05.23-06.09.27:459][933]LogOVRPlugin: [XR_SESSION] ... running 0 visible 0 focused 0
+[2023.05.23-06.09.27:459][933]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_IDLE->XR_SESSION_STATE_READY session=72153732585881601 time=344097979749900
+[2023.05.23-06.09.27:459][933]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2023.05.23-06.09.27:460][933]LogOVRPlugin: CompositorOpenXR_D3D11::Layer::Initialize(): CreateSwapchain for eye 0: 0400577000000001, 3 stages
+[2023.05.23-06.09.27:460][933]LogOVRPlugin:  ... m_textureStages[0][0] = 0000025904D0BEB8
+[2023.05.23-06.09.27:460][933]LogOVRPlugin:  ... m_textureStages[0][1] = 0000025904D091F8
+[2023.05.23-06.09.27:460][933]LogOVRPlugin:  ... m_textureStages[0][2] = 0000025904D09738
+[2023.05.23-06.09.27:460][933]LogHMD: Allocating Oculus 4128 x 2096 rendertarget swapchain
+[2023.05.23-06.09.27:460][933]LogOVRPlugin: Display: [CompositorOpenXR::SetClientColorDesc] Change colorspace from 0 to 7
+[2023.05.23-06.09.27:460][933]PIE: New page: PIE session: Battle (May 23, 2023, 8:09:27 PM)
+[2023.05.23-06.09.27:460][933]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battle
+[2023.05.23-06.09.27:465][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003881s)
+[2023.05.23-06.09.27:465][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battle.Battle to /Game/UEDPIE_0_Battle.Battle (0.003905s)
+[2023.05.23-06.09.27:465][933]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-06.09.27:465][933]LogAIModule: Creating AISystem for world Battle
+[2023.05.23-06.09.27:465][933]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2023.05.23-06.09.27:522][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.23-06.09.27:526][933]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.05.23-06.09.27:526][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-06.09.27:526][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-06.09.27:526][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-06.09.27:526][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-06.09.27:526][933]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.23-06.09.27:526][933]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.23-06.09.27:526][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.23-06.09.27:526][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-06.09.27:526][933]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-06.09.27:526][933]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-06.09.27:526][933]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-06.09.27:528][933]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.23-06.09.27:543][933]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.05.23-06.09.27:543][933]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-06.09.27:543][933]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-06.09.27:543][933]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-06.09.27:544][933]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.05.23-06.09.27:544][933]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.05.23-06.09.27:545][933]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.05.23-06.09.27:545][933]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.05.23-06.09.27:545][933]LogInit: FAudioDevice initialized.
+[2023.05.23-06.09.27:545][933]LogAudio: Display: Audio Device (ID: 33) registered with world 'Battle'.
+[2023.05.23-06.09.27:555][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-06.09.27:561][933]LogViewport: Scene viewport resized to 4128x2096, mode Windowed.
+[2023.05.23-06.09.27:590][933]LogLoad: Game class is 'GameModeBase'
+[2023.05.23-06.09.27:592][933]LogWorld: Bringing World /Game/UEDPIE_0_Battle.Battle up for play (max tick rate 0) at 2023.05.23-13.09.27
+[2023.05.23-06.09.27:592][933]LogWorld: Bringing up level for play took: 0.003030
+[2023.05.23-06.09.27:594][933]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2023.05.23-06.09.27:595][933]Cmd: vr.PixelDensity 1.0
+[2023.05.23-06.09.27:595][933]vr.PixelDensity = "1"
+[2023.05.23-06.09.27:598][933]PIE: Server logged in
+[2023.05.23-06.09.27:599][933]PIE: Play in editor total start time 1.047 seconds.
+[2023.05.23-06.09.27:748][934]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_READY->XR_SESSION_STATE_SYNCHRONIZED session=72153732585881601 time=344099115746199
+[2023.05.23-06.09.27:748][934]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2023.05.23-06.09.28:468][984]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_VISIBLE session=72153732585881601 time=344099836281000
+[2023.05.23-06.09.28:468][984]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 0
+[2023.05.23-06.09.28:468][984]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_FOCUSED session=72153732585881601 time=344099836305200
+[2023.05.23-06.09.28:468][984]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 1
+[2023.05.23-06.09.34:014][381]LogBlueprintUserMessages: [VRPawn_C_1] bax
+[2023.05.23-06.09.34:014][381]LogBlueprintUserMessages: [VRPawn_C_1] Grab
+[2023.05.23-06.09.34:018][382]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.05.23-06.09.34:029][383]LogOVRPlugin: CompositorOpenXR_D3D11::Layer::Initialize(): CreateSwapchain for eye 0: 0400577000000002, 3 stages
+[2023.05.23-06.09.34:029][383]LogOVRPlugin:  ... m_textureStages[0][0] = 0000025976093A38
+[2023.05.23-06.09.34:029][383]LogOVRPlugin:  ... m_textureStages[0][1] = 000002597608D678
+[2023.05.23-06.09.34:029][383]LogOVRPlugin:  ... m_textureStages[0][2] = 0000025976092538
+[2023.05.23-06.09.39:943][807]LogBlueprintUserMessages: [VRPawn_C_1] Release
+[2023.05.23-06.09.42:316][975]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.23-06.09.42:325][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-06.09.42:325][975]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Battle
+[2023.05.23-06.09.42:352][975]LogSlate: Window 'MyProject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5) OculusXRHMD OVRPlugin: 1.82.0' being destroyed
+[2023.05.23-06.09.42:376][975]LogWorld: UWorld::CleanupWorld for Battle, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.09.42:376][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.09.42:385][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-06.09.42:391][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.09.42:447][975]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-06.09.42:447][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.05.23-06.09.42:449][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.05.23-06.09.42:456][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.05.23-06.09.42:496][976]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2023.05.23-06.09.42:496][976]LogHMD: Warning: Destroying layer 1
+[2023.05.23-06.09.42:496][976]LogHMD: Warning: Destroying layer 2
+[2023.05.23-06.09.42:496][976]LogOVRPlugin: CompositorOpenXR::~CompositorOpenXR()
+[2023.05.23-06.09.42:527][976]LogOVRPlugin: m_xrSession destroyed
+[2023.05.23-06.09.42:530][976]LogOVRPlugin: m_xrInstance destroyed
+[2023.05.23-06.10.34:141][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.23-06.10.40:341][813]LogContentBrowser: Attempting asset rename: CornerLight_Mat_2 -> CornerLight_Mat_en
+[2023.05.23-06.10.40:357][813]LogMetaData: Removing '/Game/MapContent/CornerLight_Mat_en.SKEL_CornerLight_Mat_en_C' ref from Metadata '/Game/MapContent/CornerLight_Mat_2.PackageMetaData'
+[2023.05.23-06.10.40:357][813]LogMetaData: Removing '/Game/MapContent/CornerLight_Mat_en.CornerLight_Mat_en_C' ref from Metadata '/Game/MapContent/CornerLight_Mat_2.PackageMetaData'
+[2023.05.23-06.10.40:357][813]LogMetaData: Removing '/Game/MapContent/CornerLight_Mat_en.SKEL_CornerLight_Mat_en_C:ReceiveBeginPlay' ref from Metadata '/Game/MapContent/CornerLight_Mat_2.PackageMetaData'
+[2023.05.23-06.10.40:357][813]LogMetaData: Removing '/Game/MapContent/CornerLight_Mat_en.SKEL_CornerLight_Mat_en_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/MapContent/CornerLight_Mat_2.PackageMetaData'
+[2023.05.23-06.10.40:357][813]LogMetaData: Removing '/Game/MapContent/CornerLight_Mat_en.SKEL_CornerLight_Mat_en_C:ReceiveTick' ref from Metadata '/Game/MapContent/CornerLight_Mat_2.PackageMetaData'
+[2023.05.23-06.10.40:357][813]LogMetaData: Removing '/Game/MapContent/CornerLight_Mat_en.SKEL_CornerLight_Mat_en_C:UserConstructionScript' ref from Metadata '/Game/MapContent/CornerLight_Mat_2.PackageMetaData'
+[2023.05.23-06.10.40:359][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.10.40:391][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/CornerLight_Mat_en" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/CornerLight_Mat_en.uasset" SILENT=true
+[2023.05.23-06.10.40:394][813]LogSavePackage: Moving output files for package: /Game/MapContent/CornerLight_Mat_en
+[2023.05.23-06.10.40:394][813]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/CornerLight_Mat_en9A35EA8549D35F4C569B24BAB0C8119B.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/CornerLight_Mat_en.uasset'
+[2023.05.23-06.10.40:399][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 3.98 sec)
+[2023.05.23-06.10.40:470][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.05.23-06.10.40:523][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.05.23-06.10.40:575][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.05.23-06.10.40:583][813]AssetCheck: New page: Asset Save: CornerLight_Mat_en
+[2023.05.23-06.10.40:583][813]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MapContent/CornerLight_Mat_en.CornerLight_Mat_en
+[2023.05.23-06.11.06:391][829]LogContentBrowser: Attempting asset rename: Glow_en -> Glow_net
+[2023.05.23-06.11.06:407][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.11.06:445][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Glow_net" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_net.uasset" SILENT=true
+[2023.05.23-06.11.06:450][829]LogSavePackage: Moving output files for package: /Game/MapContent/Glow_net
+[2023.05.23-06.11.06:450][829]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Glow_net592E31BC4EB29E9CC2708C80CBAE2440.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_net.uasset'
+[2023.05.23-06.11.06:455][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 4.03 sec)
+[2023.05.23-06.11.06:528][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.05.23-06.11.06:582][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.23-06.11.06:634][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.05.23-06.11.06:643][829]AssetCheck: New page: Asset Save: Glow_net
+[2023.05.23-06.11.06:643][829]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MapContent/Glow_net.Glow_net
+[2023.05.23-06.11.12:449][512]LogContentBrowser: Attempting asset rename: Glow_Inst_en -> Glow_Inst_net
+[2023.05.23-06.11.12:465][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.11.12:516][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Glow_Inst_net" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_Inst_net.uasset" SILENT=true
+[2023.05.23-06.11.12:516][512]LogSavePackage: Moving output files for package: /Game/MapContent/Glow_Inst_net
+[2023.05.23-06.11.12:516][512]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Glow_Inst_net023630D14ADE37CFA2249A9E61A5E8E7.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_Inst_net.uasset'
+[2023.05.23-06.11.12:517][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Glow_Inst_en" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_Inst_en.uasset" SILENT=true
+[2023.05.23-06.11.12:517][512]LogSavePackage: Moving output files for package: /Game/MapContent/Glow_Inst_en
+[2023.05.23-06.11.12:517][512]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Glow_Inst_enD7750CB34D7889FBC3C6D0A6F44C5BC1.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_Inst_en.uasset'
+[2023.05.23-06.11.12:521][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 4.08 sec)
+[2023.05.23-06.11.12:529][512]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-06.11.12:529][512]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/MapContent/Glow_Inst_en.Glow_Inst_en
+[2023.05.23-06.11.12:529][512]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/MapContent/Glow_Inst_net.Glow_Inst_net
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: ================================================
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Total job queries 350, among them cache hits 105 (30.00%)
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Tracking 242 distinct input hashes that result in 141 distinct outputs (58.26%)
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: RAM used: 0.65 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Shaders Compiled: 89
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Jobs assigned 92, completed 89 (96.74%)
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Average time worker was idle: 44.94 s
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Job execution time: average 0.58 s, max 0.96 s
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Job life time (pending + execution): average 0.65 s, max 1.07
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.48 s
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Jobs were issued in 92 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Average processing rate: 7.75 jobs/sec
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Total thread time: 40.70 s
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Total thread preprocess time: 2.84 s
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Percentage time preprocessing: 6.99%
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Effective parallelization: 3.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    3 times, average 0.72 sec, max 0.77 sec, min 0.62 sec)
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.72 sec, max 0.76 sec, min 0.65 sec)
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.70 sec, max 0.75 sec, min 0.62 sec)
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    3 times, average 0.69 sec, max 0.75 sec, min 0.60 sec)
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    3 times, average 0.68 sec, max 0.72 sec, min 0.60 sec)
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.45% of total time (compiled   15 times, average 0.42 sec, max 0.61 sec, min 0.30 sec)
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.75% of total time (compiled   15 times, average 0.40 sec, max 0.59 sec, min 0.31 sec)
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.03% of total time (compiled   10 times, average 0.33 sec, max 0.44 sec, min 0.25 sec)
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.30% of total time (compiled    3 times, average 0.72 sec, max 0.77 sec, min 0.62 sec)
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.30% of total time (compiled    3 times, average 0.72 sec, max 0.76 sec, min 0.65 sec)
+[2023.05.23-06.11.16:997][992]LogShaderCompilers: Display: ================================================
+[2023.05.23-06.11.24:462][863]LogContentBrowser: Attempting asset rename: Glow_net_2 -> Glow_en
+[2023.05.23-06.11.24:478][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.11.24:534][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Glow_en" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_en.uasset" SILENT=true
+[2023.05.23-06.11.24:536][863]LogSavePackage: Moving output files for package: /Game/MapContent/Glow_en
+[2023.05.23-06.11.24:536][863]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Glow_en01D1C0B348491D2FD996AC94B3784FD1.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_en.uasset'
+[2023.05.23-06.11.24:541][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 4.15 sec)
+[2023.05.23-06.11.24:614][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.05.23-06.11.24:666][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.23-06.11.24:717][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.05.23-06.11.24:725][863]AssetCheck: New page: Asset Save: Glow_en
+[2023.05.23-06.11.24:726][863]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MapContent/Glow_en.Glow_en
+[2023.05.23-06.11.32:323][727]LogContentBrowser: Attempting asset rename: Glow_Inst_net_2 -> Glow_Inst_net_2
+[2023.05.23-06.11.44:139][107]LogContentBrowser: Attempting asset rename: Glow_Inst_net_2 -> Glow_Inst_net_2
+[2023.05.23-06.12.02:643][293]LogContentBrowser: Attempting asset rename: Glow_Inst_net_2 -> Glow_Inst_e
+[2023.05.23-06.12.02:661][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.12.02:695][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Glow_Inst_e" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_Inst_e.uasset" SILENT=true
+[2023.05.23-06.12.02:696][293]LogSavePackage: Moving output files for package: /Game/MapContent/Glow_Inst_e
+[2023.05.23-06.12.02:696][293]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Glow_Inst_e4A9BE5BA427FE8B686A59DA861595503.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_Inst_e.uasset'
+[2023.05.23-06.12.02:701][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 4.19 sec)
+[2023.05.23-06.12.02:774][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.05.23-06.12.02:826][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.23-06.12.02:877][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.05.23-06.12.02:884][293]AssetCheck: New page: Asset Save: Glow_Inst_e
+[2023.05.23-06.12.02:884][293]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/MapContent/Glow_Inst_e.Glow_Inst_e
+[2023.05.23-06.12.19:025][175]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MapContent/Glow_en.Glow_en
+[2023.05.23-06.12.19:027][175]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-06.12.19:175][175]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.12.19:176][175]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.19:176][175]MaterialEditorStats: Shader Count: 0
+[2023.05.23-06.12.19:181][175]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2023.05.23-06.12.19:837][231]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.12.19:837][231]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.12.19:837][231]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.19:837][231]MaterialEditorStats: Shader Count: 3
+[2023.05.23-06.12.19:936][243]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.12.19:936][243]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.12.19:936][243]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.23-06.12.19:936][243]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.19:936][243]MaterialEditorStats: Shader Count: 4
+[2023.05.23-06.12.27:491][114]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.23-06.12.27:498][114]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.12.27:498][114]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.27:498][114]MaterialEditorStats: Shader Count: 0
+[2023.05.23-06.12.27:531][117]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.12.27:531][117]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.12.27:531][117]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.23-06.12.27:531][117]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.27:531][117]MaterialEditorStats: Shader Count: 4
+[2023.05.23-06.12.32:554][517]LogSlate: Window 'Message' being destroyed
+[2023.05.23-06.12.32:560][517]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/MapContent/Glow_en.Glow_en
+(Selecting 'No' will cause all changes to be lost!)
+[2023.05.23-06.12.32:572][517]LogSlate: Window 'Glow_en' being destroyed
+[2023.05.23-06.12.32:573][517]LogSlate: Window 'Glow_en' being destroyed
+[2023.05.23-06.12.32:584][517]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.12.32:584][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.12.35:592][861]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MapContent/Glow_en.Glow_en
+[2023.05.23-06.12.35:595][861]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-06.12.35:726][861]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.12.35:726][861]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.35:726][861]MaterialEditorStats: Shader Count: 0
+[2023.05.23-06.12.35:732][861]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2023.05.23-06.12.36:272][912]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.12.36:272][912]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.12.36:273][912]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.23-06.12.36:273][912]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.36:273][912]MaterialEditorStats: Shader Count: 4
+[2023.05.23-06.12.40:076][338]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.12.40:076][338]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.40:076][338]MaterialEditorStats: Shader Count: 0
+[2023.05.23-06.12.40:115][341]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.12.40:115][341]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.12.40:115][341]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.23-06.12.40:115][341]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.40:115][341]MaterialEditorStats: Shader Count: 4
+[2023.05.23-06.12.41:332][481]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.12.41:332][481]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.41:332][481]MaterialEditorStats: Shader Count: 0
+[2023.05.23-06.12.41:349][483]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.12.41:349][483]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.12.41:349][483]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.23-06.12.41:349][483]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.41:349][483]MaterialEditorStats: Shader Count: 2
+[2023.05.23-06.12.45:678][998]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.12.45:678][998]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.45:678][998]MaterialEditorStats: Shader Count: 0
+[2023.05.23-06.12.45:712][  1]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.12.45:712][  1]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.12.45:712][  1]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.23-06.12.45:712][  1]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.45:712][  1]MaterialEditorStats: Shader Count: 4
+[2023.05.23-06.12.47:977][265]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.23-06.12.47:984][265]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-06.12.47:984][265]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.47:984][265]MaterialEditorStats: Shader Count: 0
+[2023.05.23-06.12.48:020][268]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.12.48:020][268]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.12.48:020][268]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.23-06.12.48:020][268]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.48:020][268]MaterialEditorStats: Shader Count: 4
+[2023.05.23-06.12.49:708][461]LogMaterialEditor: Saving and Compiling material Glow_en
+[2023.05.23-06.12.50:123][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.05.23-06.12.50:335][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.05.23-06.12.50:342][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.12.50:432][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Glow_en" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_en.uasset" SILENT=true
+[2023.05.23-06.12.50:433][461]LogSavePackage: Moving output files for package: /Game/MapContent/Glow_en
+[2023.05.23-06.12.50:434][461]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Glow_enD44D3BBB48CB077C65EC8C97B7D28355.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_en.uasset'
+[2023.05.23-06.12.50:440][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 4.28 sec)
+[2023.05.23-06.12.50:447][461]AssetCheck: New page: Asset Save: Glow_en
+[2023.05.23-06.12.50:447][461]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MapContent/Glow_en.Glow_en
+[2023.05.23-06.12.50:448][461]MaterialEditorStats: Base pass shader: 162 instructions
+[2023.05.23-06.12.50:448][461]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.05.23-06.12.50:448][461]MaterialEditorStats: MaxSampler: 211 instructions
+[2023.05.23-06.12.50:448][461]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.23-06.12.50:448][461]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.23-06.12.50:448][461]MaterialEditorStats: Shader Count: 16
+[2023.05.23-06.12.50:960][517]LogSlate: Window 'Glow_en' being destroyed
+[2023.05.23-06.12.50:965][517]LogSlate: Window 'Glow_en' being destroyed
+[2023.05.23-06.12.50:975][517]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.12.50:975][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.12.56:458][147]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/MapContent/Glow_Inst_e.Glow_Inst_e
+[2023.05.23-06.12.56:459][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-06.12.56:610][147]LogViewport: Scene viewport resized to 1335x902, mode Windowed.
+[2023.05.23-06.13.01:744][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.13.01:804][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/Glow_Inst_e" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_Inst_e.uasset" SILENT=true
+[2023.05.23-06.13.01:863][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.05.23-06.13.01:918][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.23-06.13.01:919][715]LogSavePackage: Moving output files for package: /Game/MapContent/Glow_Inst_e
+[2023.05.23-06.13.01:920][715]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Glow_Inst_e3BAEE108417A20926833D18597673627.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/Glow_Inst_e.uasset'
+[2023.05.23-06.13.01:926][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 4.47 sec)
+[2023.05.23-06.13.01:933][715]AssetCheck: New page: Asset Save: Glow_Inst_e
+[2023.05.23-06.13.01:933][715]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/MapContent/Glow_Inst_e.Glow_Inst_e
+[2023.05.23-06.13.03:270][875]LogSlate: Window 'Glow_Inst_e' being destroyed
+[2023.05.23-06.13.03:275][875]LogSlate: Window 'Glow_Inst_e' being destroyed
+[2023.05.23-06.13.03:288][875]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.13.03:288][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.13.07:373][341]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MapContent/CornerLight_Mat_en.CornerLight_Mat_en
+[2023.05.23-06.13.07:373][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-06.13.09:385][513]LogViewport: Scene viewport resized to 1001x693, mode Windowed.
+[2023.05.23-06.13.33:942][213]LogEditorTransaction: Undo Modify Component(s)
+[2023.05.23-06.13.44:806][387]BlueprintLog: New page: Compile CornerLight_Mat_en
+[2023.05.23-06.13.45:030][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.05.23-06.13.45:762][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.13.45:821][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapContent/CornerLight_Mat_en" FILE="D:/c14200062(1)/ManproTi_11/Content/MapContent/CornerLight_Mat_en.uasset" SILENT=true
+[2023.05.23-06.13.45:825][462]LogSavePackage: Moving output files for package: /Game/MapContent/CornerLight_Mat_en
+[2023.05.23-06.13.45:825][462]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/CornerLight_Mat_en608593714BDB987EBCE6F4B16595FC1C.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/MapContent/CornerLight_Mat_en.uasset'
+[2023.05.23-06.13.45:833][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 4.54 sec)
+[2023.05.23-06.13.45:840][462]AssetCheck: New page: Asset Save: CornerLight_Mat_en
+[2023.05.23-06.13.45:840][462]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MapContent/CornerLight_Mat_en.CornerLight_Mat_en
+[2023.05.23-06.13.50:396][968]LogSlate: Window 'CornerLight_Mat_en' being destroyed
+[2023.05.23-06.13.50:405][968]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.13.50:405][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.14.19:866][413]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/CornerLight_Mat_en.CornerLight_Mat_en_C
+[2023.05.23-06.14.19:866][413]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/CornerLight_Mat_en.CornerLight_Mat_en_C
+[2023.05.23-06.14.19:872][413]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/CornerLight_Mat_en.CornerLight_Mat_en as actor: CornerLight_Mat_en_C /Game/Battle.Battle:PersistentLevel.CornerLight_Mat_en_C_0
+[2023.05.23-06.14.19:878][413]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/CornerLight_Mat_en.CornerLight_Mat_en as actor: CornerLight_Mat_en_C /Game/Battle.Battle:PersistentLevel.CornerLight_Mat_en_C_0
+[2023.05.23-06.14.23:494][818]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/CornerLight_Mat_en.CornerLight_Mat_en_C
+[2023.05.23-06.14.23:494][818]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MapContent/CornerLight_Mat_en.CornerLight_Mat_en_C
+[2023.05.23-06.14.23:501][818]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/CornerLight_Mat_en.CornerLight_Mat_en as actor: CornerLight_Mat_en_C /Game/Battle.Battle:PersistentLevel.CornerLight_Mat_en_C_1
+[2023.05.23-06.14.23:506][818]LogActorFactory: Actor Factory spawned Blueprint /Game/MapContent/CornerLight_Mat_en.CornerLight_Mat_en as actor: CornerLight_Mat_en_C /Game/Battle.Battle:PersistentLevel.CornerLight_Mat_en_C_1
+[2023.05.23-06.15.20:905][666]Cmd: DELETE
+[2023.05.23-06.15.20:905][666]Cmd: ACTOR DELETE
+[2023.05.23-06.15.20:908][666]LogEditorActor: Deleted Actor: CornerLight_Mat_C
+[2023.05.23-06.15.20:979][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.05.23-06.15.20:992][666]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2023.05.23-06.15.43:782][297]Cmd: EDIT COPY
+[2023.05.23-06.15.44:188][345]Cmd: EDIT PASTE
+[2023.05.23-06.15.56:425][772]Cmd: DELETE
+[2023.05.23-06.15.56:426][772]Cmd: ACTOR DELETE
+[2023.05.23-06.15.56:428][772]LogEditorActor: Deleted Actor: CornerLight_Mat_C
+[2023.05.23-06.15.56:491][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.05.23-06.15.56:503][772]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2023.05.23-06.16.07:131][ 28]LogViewport: Scene viewport resized to 495x284, mode Windowed.
+[2023.05.23-06.18.58:631][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.05.23-06.18.58:636][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battle" FILE="D:/c14200062(1)/ManproTi_11/Saved/Autosaves/Game/Battle_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.05.23-06.18.58:648][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Battle_Auto4
+[2023.05.23-06.18.58:648][199]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Battle_Auto48AAAEA23435DA79D46D0A2A1F502FCA4.tmp' to 'D:/c14200062(1)/ManproTi_11/Saved/Autosaves/Game/Battle_Auto4.umap'
+[2023.05.23-06.18.58:655][199]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Battle' took 0.082
+[2023.05.23-06.18.58:655][199]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2023.05.23-06.18.58:655][199]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/bax] ([2] browsable assets)...
+[2023.05.23-06.18.58:675][199]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bax.bax]
+[2023.05.23-06.18.58:675][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/bax]
+[2023.05.23-06.18.58:675][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bax" FILE="D:/c14200062(1)/ManproTi_11/Saved/Autosaves/Game/bax_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.05.23-06.18.58:706][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bax_Auto4
+[2023.05.23-06.18.58:706][199]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/bax_Auto4463D14A04E16C3C9E877AF907B4CFF81.tmp' to 'D:/c14200062(1)/ManproTi_11/Saved/Autosaves/Game/bax_Auto4.uasset'
+[2023.05.23-06.18.58:707][199]LogFileHelpers: Auto-saving content packages took 0.051
+[2023.05.23-06.23.03:004][933]LogDerivedDataCache: C:/Users/MM-428/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.105 and deleted 189 files with total size 2 MiB. Scanned 12749 files in 12495 folders with total size 613 MiB.
+[2023.05.23-06.31.20:754][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.05.23-06.31.20:758][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battle" FILE="D:/c14200062(1)/ManproTi_11/Saved/Autosaves/Game/Battle_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.05.23-06.31.20:770][232]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Battle_Auto5
+[2023.05.23-06.31.20:770][232]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/Battle_Auto5026D237D40B1FB6A011853B6C53F27B2.tmp' to 'D:/c14200062(1)/ManproTi_11/Saved/Autosaves/Game/Battle_Auto5.umap'
+[2023.05.23-06.31.20:776][232]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Battle' took 0.086
+[2023.05.23-06.31.20:776][232]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2023.05.23-06.33.00:081][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.05.23-06.33.00:084][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-06.33.00:119][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battle" FILE="D:/c14200062(1)/ManproTi_11/Content/Battle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.23-06.33.00:173][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.05.23-06.33.00:186][112]LogSavePackage: Moving output files for package: /Game/Battle
+[2023.05.23-06.33.00:186][112]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/BattleF950BE804DEA7255EFE400A226D44C68.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/Battle.umap'
+[2023.05.23-06.33.00:202][112]LogFileHelpers: Saving map 'Battle' took 0.083
+[2023.05.23-06.33.00:202][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bax" FILE="D:/c14200062(1)/ManproTi_11/Content/bax.uasset" SILENT=true
+[2023.05.23-06.33.00:207][112]LogSavePackage: Moving output files for package: /Game/bax
+[2023.05.23-06.33.00:208][112]LogSavePackage: Moving 'D:/c14200062(1)/ManproTi_11/Saved/bax7F41D0CC495B1236C5B680A33958F772.tmp' to 'D:/c14200062(1)/ManproTi_11/Content/bax.uasset'
+[2023.05.23-06.33.00:212][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 4.66 sec)
+[2023.05.23-06.33.00:221][112]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-06.33.00:221][112]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/bax.bax
+[2023.05.23-06.33.00:221][112]LogContentValidation: Display: Validating /Script/Engine.World /Game/Battle.Battle
