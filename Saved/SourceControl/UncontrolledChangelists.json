@@ -10,7 +10,14 @@
 				"D:/c14200062/ManproTi_11/Content/Battle.umap",
 				"D:/c14200062/ManproTi_11/Content/GI_battlemode.uasset",
 				"D:/c14200062/ManproTi_11/Content/BP_Projectile.uasset",
-				"D:/c14200062/ManproTi_11/Content/VRTemplate/Blueprints/BP_VRBattle.uasset"
+				"D:/c14200062/ManproTi_11/Content/VRTemplate/Blueprints/BP_VRBattle.uasset",
+				"D:/c14200062/ManproTi_11/Content/box_retry.uasset",
+				"D:/c14200062/ManproTi_11/Content/boxPawn.uasset",
+				"D:/c14200062/ManproTi_11/Content/box_mainmenu.uasset",
+				"D:/c14200062/ManproTi_11/Content/AI/BP_Enemy.uasset",
+				"D:/c14200062/ManproTi_11/Content/BP_Enemy1.uasset",
+				"D:/c14200062/ManproTi_11/Content/menu_spawner.uasset",
+				"D:/c14200062/ManproTi_11/Content/AI/BP_Projectile.uasset"
 			]
 		}
 	]
