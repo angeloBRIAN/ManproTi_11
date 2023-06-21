@@ -11178,3 +11178,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.21-04.21.18:292][736]BlueprintLog: New page: Compile BP_VRBattle
 [2023.06.21-04.21.18:465][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
 [2023.06.21-04.21.20:267][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.06.21-04.49.51:011][ 91]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.1.1-23901901+++UE5+Release-5.1
+[2023.06.21-04.49.51:323][ 91]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={B813C6AF-4EE9-C545-D17F-E19952F57CF5}
+[2023.06.21-05.06.29:989][ 88]LogDerivedDataCache: C:/Users/c1419/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.478 and deleted 0 files with total size 0 MiB. Scanned 6759 files in 6698 folders with total size 1046 MiB.
+[2023.06.21-06.06.30:761][890]LogDerivedDataCache: C:/Users/c1419/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.250 and deleted 0 files with total size 0 MiB. Scanned 6759 files in 6698 folders with total size 1046 MiB.
